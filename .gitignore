@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+Battleship/\.vs/
+
+Battleship/Battleship/GeneratedFiles/
+
+Battleship/Battleship/x64/
+
+Battleship/x64/
